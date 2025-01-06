@@ -29,3 +29,14 @@ Este proyecto es una colección de herramientas de seguridad diseñadas para eje
    ```bash
    git clone https://github.com/Ant3r0s/herramientas-seguridad-gui.git
    cd herramientas-seguridad-gui
+
+2. **Instala las dependecias:**
+   ```bash
+   pip install -r requirements.txt
+   
+3. **Ejecuta la aplicacion:**
+   ```bash
+   python reyes.py
+
+
+   
